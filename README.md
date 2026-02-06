@@ -1,4 +1,4 @@
 # git\_commands
 
-try git commands on my laptop  i modifie!!!\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 
+try git commands on my laptop  i change it !!!\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 
 
